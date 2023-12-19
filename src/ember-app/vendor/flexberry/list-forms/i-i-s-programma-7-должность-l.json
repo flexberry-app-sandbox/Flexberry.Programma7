@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-programma-7-должность-e",
+  "editForm": "i-i-s-programma-7-должность-e",
+  "external": false,
+  "caption": "Должность",
+  "name": "IISProgramma_7ДолжностьL",
+  "className": "ДолжностьL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-programma-7-должность",
+      "modelProjection": "ДолжностьL"
+    }
+  ]
+}

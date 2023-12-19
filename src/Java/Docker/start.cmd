@@ -1,0 +1,1 @@
+docker-compose -p programma_7-java up -d
